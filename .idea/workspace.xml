@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb770800-cad0-4a73-a9ab-1cca9789dd49" name="Changes" comment="" />
+    <list default="true" id="eb770800-cad0-4a73-a9ab-1cca9789dd49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/1.index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/1.index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/2.bases.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/2.bases.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/3.component.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/3.component.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/4.design-system.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/4.design-system.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/5.store.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/5.store.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/6.api.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/6.api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/6.routing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/6.routing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/2.vue/8.cypress.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/2.vue/8.cypress.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/3.test/3.hooks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/3.test/4.commit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/3.test/5.linter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.yml" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,24 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feat/add-vuejs&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vfourny/workspace/vfourny/formation&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "feat/add-vuejs",
+    "last_opened_file_path": "/Users/vfourny/workspace/vfourny/formation",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.general",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,6 +76,7 @@
       <updated>1739034359647</updated>
       <workItem from="1739623967201" duration="269000" />
       <workItem from="1739624241205" duration="8457000" />
+      <workItem from="1739667830772" duration="4983000" />
     </task>
     <servers />
   </component>

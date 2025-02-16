@@ -23,10 +23,6 @@ export default defineAppConfig({
         to: '/vue',
       },
       {
-        label: 'Tests et qualité de code',
-        to: '/test',
-      },
-      {
         label: 'Git',
         to: '/git',
       },
@@ -36,11 +32,15 @@ export default defineAppConfig({
         icon: 'i-mdi-github',
         to: 'https://github.com/vfourny',
         target: '_blank',
-        'aria-label': 'VFourny Github',
+      },
+      {
+        icon: 'i-mdi-linkedin ',
+        to: 'https://www.linkedin.com/in/valentin-fourny-879a23117/',
+        target: '_blank',
       },
     ],
   },
   toc: {
     title: 'Sur cette page',
   },
-});
+})
