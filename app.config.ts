@@ -23,6 +23,10 @@ export default defineAppConfig({
         to: '/vue',
       },
       {
+        label: 'CI/CD',
+        to: '/ci-cd',
+      },
+      {
         label: 'Git',
         to: '/git',
       },
