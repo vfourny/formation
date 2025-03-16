@@ -23,11 +23,11 @@ modules:
     icon: 'i-mdi-vuejs'
     to: '/vue'
     color: '#41b883'
-#  - title: 'Test et qualité de code'
-#    description: "Apprentissages de framework de tests et solutions d'amélioration de la qualité de code."
-#    icon: 'i-mdi-test-tube'
-#    to: '/test'
-#    color: '#F0DB4F'
+  - title: 'CI and CD'
+    description: "Intégration continue et déploiement continu avec Github Action."
+    icon: 'i-mdi-pipe'
+    to: '/ci-cd'
+    color: '#F0DB4F'
   - title: 'Git'
     description: 'Apprentissage du versionning de code avec Git.'
     icon: 'i-mdi-git'
